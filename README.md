@@ -1,1 +1,1 @@
-# B-i-t-p-tu-n-3
+# Bài tập về nhà số 3 biểu diễn thuật toán+ biểu diễn số nguyên
